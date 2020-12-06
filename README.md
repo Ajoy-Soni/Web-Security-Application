@@ -50,12 +50,11 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo either in var/www/html for ubuntu or xampp/htdocs for windows.
    ```sh
    git clone https://github.com/Ajoy-Soni/Web-Security-Application.git
    ```
 2. Install required packages
-
 
 ## Usage
 The database and tables with data would be setup automatically using the setup and reset features provided.
